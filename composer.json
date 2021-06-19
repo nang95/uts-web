@@ -1,0 +1,13 @@
+{
+    "name": "nang/uts_web",
+    "description": "uts web",
+    "type": "project",
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4" : {
+            "App\\" : "app/"
+        }
+    }
+}
